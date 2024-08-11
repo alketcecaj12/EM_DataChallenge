@@ -9,7 +9,9 @@
 
 - 4 functions.py which contains simple and well documented functions to be called from RunCode.ipynb or anywhere else.   
 
-### The approach presented here is quite simple just like the statistical model itself. Other, more sophisticated models, based on machine learning could have had a better performance. The functional approach into building the code is also very simple even though an OOP one could have offered more elegance and better scaling. 
+### The approach presented here is quite simple just like the statistical model itself. Other, more sophisticated models, based on machine learning could have had a better performance. 
+
+### The functional approach into building the code is also very simple even though an OOP one could have offered more elegance and better scaling. 
 
 ### The performance metric that I chose is MAPE (Mean Absolute Percentage Error) and I motivate the choice inside the comments in the model notebook.
 
